@@ -6,11 +6,11 @@ import Gallery from './components/Gallery';
 function App() {
   const [categories] = useState([
     {
-      name: "Portfolio",
-      description: "Arturo Arce's Web Portfolio",
+      name: "portfolio",
+      description: "My Own Library web application",
     },
     {
-      name: "Resume",
+      name: "resume",
       description: "Arturo Arce's Resume",
     },
   ]);
@@ -21,7 +21,7 @@ function App() {
     <div>
       <Nav categories={categories} setCurrentCategory={setCurrentCategory} currentCategory={currentCategory}></Nav>
       <main>
-        <Gallery></Gallery>
+        <Gallery currentCategory={currentCategory}></Gallery>
         <About></About>
       </main>
     </div>
