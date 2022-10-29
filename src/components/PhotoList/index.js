@@ -7,6 +7,11 @@ const PhotoList = ({ category }) => {
       name: 'My Own Library',
       category: 'portfolio',
       description: 'A web application able to make a list of your favorite books and movies so that you can always refer back to it later.',
+    },
+    {
+      name: "Arturo's Resume",
+      category: "resume",
+      description: "A photo of Arturo's Resume."
     }
   ]);
 
