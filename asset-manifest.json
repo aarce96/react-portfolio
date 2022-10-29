@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8832ea63.css",
+    "main.js": "/react-portfolio/static/js/main.00ccbc84.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Arturo-Arce.jpg": "/react-portfolio/static/media/Arturo-Arce.89ce2f9a0db301c86022.jpg",
+    "static/media/0.png": "/react-portfolio/static/media/0.55dac085efdc90b4e585.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.8832ea63.css.map": "/react-portfolio/static/css/main.8832ea63.css.map",
+    "main.00ccbc84.js.map": "/react-portfolio/static/js/main.00ccbc84.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8832ea63.css",
+    "static/js/main.00ccbc84.js"
+  ]
+}
